@@ -1,0 +1,1 @@
+<nav class="main-toolbar">	<ul>		<li class="active"><a href = "#"><img width="50px" src = "<?php echo $main_img."school.png"; ?>"></a></li>		<!--<li><div><a href = "#"><img src = "<?php echo $main_img."statistics.png"; ?>"></a></div></li>-->		<li><a href = "#"><img width="50px" src = "<?php echo $main_img."interventi.png"; ?>"></a></li>	</ul></nav>
